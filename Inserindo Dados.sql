@@ -1,0 +1,1 @@
+Insert into pessoa nome, nascimento: Values 'Flavio'; '2002 12 01'

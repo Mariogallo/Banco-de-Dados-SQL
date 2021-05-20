@@ -1,0 +1,1 @@
+Select  * from pessoa order by nome desc

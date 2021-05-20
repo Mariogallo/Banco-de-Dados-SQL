@@ -1,0 +1,1 @@
+	Insert into pessoa nome, nascimento, genero: VALUES 'Paula', '1998 10 22', 'F'
